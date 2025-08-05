@@ -1,40 +1,38 @@
 # Welcome to Nuvei’s GitHub
 
-Nuvei is the payment technology partner of thriving brands. We provide a complete suite of modular payment technologies and tools to help businesses accelerate their growth — across eCommerce, marketplaces, platforms, and point-of-sale.
+Nuvei is the payment technology partner of global brands — offering modular SDKs, eCommerce plugins, and integration tools to power commerce across verticals.
 
-We use this space to share SDKs, plugins, and demos that make integrating with Nuvei easier.
-
----
-
-## 🔧 Core SDKs & Tools
-
-- [Nuvei Node.js SDK](https://github.com/Nuvei/nuvei-node) — Lightweight wrapper for Nuvei's API
-- [Java SDK](https://github.com/Nuvei/nuvei-java-sdk) — Easily integrate Nuvei in Java-based systems
-- [Checkout Demos](https://github.com/Nuvei/nuvei-checkout-demo) — Quick-start examples for hosted payment pages
-
-## 🛒 eCommerce Integrations
-
-- [Magento 2 Plugin](https://github.com/Nuvei/magento2) — Feature-rich plugin for Nuvei payments
-- [Shopify App](https://github.com/Nuvei/shopify-app) — Seamless Shopify integration
-- [WooCommerce Plugin](https://github.com/Nuvei/woocommerce) — Flexible WordPress eCommerce support
-- [PrestaShop Module](https://github.com/Nuvei/prestashop) — Easy-to-use module for PrestaShop stores
-
-## 📚 Developer Resources
-
-- [Developer Portal](https://docs.nuvei.com) — Central hub for documentation
-- [API Reference](https://docs.nuvei.com/api/) — Explore our REST API
-- [Integration Guides](https://docs.nuvei.com/docs/integrations/) — Step-by-step setup instructions
-
-## 💬 Support
-
-- [Nuvei Support Portal](https://support.nuvei.com)
-- [Contact Us](https://www.nuvei.com/contact/)
-
-## 🔐 Security
-
-We take security seriously. If you find a vulnerability, please follow our [Responsible Disclosure Policy](https://www.nuvei.com/security/).
+We use this space to highlight our open-source SDKs, plugins, and demos that simplify integration with our unified payment platform.
 
 ---
 
-🚀 **Nuvei** — Accelerating commerce through smart, modular payment technology.
+## 🔧 Core SDKs & Developer Tools
 
+- [nuvei-server-nodejs](https://github.com/Nuvei/nuvei-server-nodejs) — Node.js SDK for Nuvei’s REST API  
+- [nuvei-server-java](https://github.com/Nuvei/nuvei-server-java) — Java SDK for REST integrations  
+- [nuvei-server-php](https://github.com/Nuvei/nuvei-server-php) — PHP SDK to access Nuvei API  
+
+## 🛒 eCommerce & Platform Integrations
+
+- [nuvei-plugin-magento-2](https://github.com/Nuvei/nuvei-plugin-magento-2) — Magento 2 plugin for Nuvei payments  
+- [nuvei-plugin-woocommerce](https://github.com/Nuvei/nuvei-plugin-woocommerce) — WooCommerce payment integration  
+- [nuvei-plugin-prestashop](https://github.com/Nuvei/nuvei-plugin-prestashop) — PrestaShop payment module  
+- [nuvei-plugin-opencart-4](https://github.com/Nuvei/nuvei-plugin-opencart-4) — OpenCart 4 plugin  
+- [nuvei-plugin-shopware-5](https://github.com/Nuvei/nuvei-plugin-shopware-5) — Shopware 5 integration  
+- [nuvei-plugin-salesforce-commerce-cloud](https://github.com/Nuvei/nuvei-plugin-salesforce-commerce-cloud) — Salesforce Commerce Cloud integration  
+- [nuvei-plugin-sap-commerce](https://github.com/Nuvei/nuvei-plugin-sap-commerce) — SAP Commerce Cloud / Hybris connector  
+
+---
+
+## 📚 Developer & Support Resources
+
+- [Developer Portal & API Docs](https://docs.nuvei.com) — Technical guides and integration instructions  
+- [Support Center](https://support.nuvei.com) — Contact support or report issues  
+
+## 🔐 Security Disclosure
+
+If you encounter a security vulnerability, please follow our Responsible Disclosure Policy at [nuvei.com/security](https://www.nuvei.com/security).
+
+---
+
+🌍 **Nuvei** — Accelerating commerce with smarter payments across platforms and marketplaces.
