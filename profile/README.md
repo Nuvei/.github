@@ -1,4 +1,4 @@
-# Welcome to Nuvei’s GitHub
+# Welcome to Nuvei’s GitHub 
 
 Nuvei is the payment technology partner of thriving brands. We provide a complete suite of modular payment technologies and tools to help businesses accelerate their growth — across eCommerce, marketplaces, platforms, and point-of-sale.
 
